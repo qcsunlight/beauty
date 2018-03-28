@@ -1,0 +1,40 @@
+body {
+	text-align: center;
+	font-size: 24px;
+	padding-top: 50px;
+}
+
+form {
+	display: inline-block;
+}
+
+#submit {
+	height: 30px;
+	width: 80px;
+	border-radius: 5px;
+	border: 0;
+	background-color: #007fff;
+	font: 14px "Lucida Grande", Helvetica, Arial, san-serif;
+	color: #fff;
+}
+
+#result {
+	margin-top: 100px;
+}
+/*
+input[type="file"] {
+	width: 220px;
+	height: 30px;
+	opacity: 0;
+}
+
+label {
+	position: absolute;
+	left: 5px;
+	top: 3px;
+	width: 220px;
+	height: 30px;
+	border-radius: 5px;
+	border: 1px solid #999;
+}
+*/
